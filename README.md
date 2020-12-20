@@ -3,7 +3,7 @@
 
 This project is for educational purposes only.
 
-Site published at 
+Site published at https://inetavei.github.io/new-year/
 
 
 ## Project features
